@@ -1,0 +1,2 @@
+#this command for update your project from your project repository on your system
+git pull origin main/master 
